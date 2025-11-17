@@ -2,9 +2,6 @@
 
 # 🚚 Dashboard de Acompanhamento de Fretes e Logística
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
-
 > **Nota:** Este projeto utiliza dados fictícios para fins de demonstração de portfólio.
 
 ![Dashboard Preview](Dashboard%202%20imagem.png)
